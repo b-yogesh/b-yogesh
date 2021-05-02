@@ -1,7 +1,5 @@
 ### Hi, I'm Yogesh 👋💻
 
-<!--
-**b-yogesh/b-yogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://user-images.githubusercontent.com/22027039/116809621-2cedbf80-ab3f-11eb-9967-e977466b1f32.PNG" alt="Banner that says Yogesh Kumar alongside a cartoon illustration of Yogesh">
 
 I'm a CS Masters Student who is passionate about making robust Software Applications as well as building products that entail the power of Machine/Deep Learning.
